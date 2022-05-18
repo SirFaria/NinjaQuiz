@@ -1,7 +1,7 @@
 <h1 align="center">Ninja Quiz</h1>
 
 <h1 align="center">
-    <img alt="Ninja Quiz" title="Ninja Quiz" src="./ninjaquiz-homepage.png" width="700px"  />
+    <img alt="Ninja Quiz" title="Ninja Quiz" src="./ninja-quiz-homepage.png" width="700px"  />
 </h1>
 
 <h2 align="center">Live Demo: LINK </h2>
