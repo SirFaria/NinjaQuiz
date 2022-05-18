@@ -1,4 +1,19 @@
-# NinjaQuiz
-An interactive ninja quiz
-<br/>
-https://sirfaria.github.io/NinjaQuiz/
+<h1 align="center">Ninja Quiz</h1>
+
+<h1 align="center">
+    <img alt="Ninja Quiz" title="Ninja Quiz" src="./ninjaquiz-homepage.png" width="700px"  />
+</h1>
+
+<h2 align="center">Live Demo: LINK </h2>
+
+## 💻 Project
+
+A funny quiz about ninjas.
+
+## 🚀 Techs
+
+This project was built with:
+
+- HTML
+- CSS
+- JavaScript
