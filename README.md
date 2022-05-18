@@ -4,7 +4,7 @@
     <img alt="Ninja Quiz" title="Ninja Quiz" src="./ninja-quiz-homepage.png" width="700px"  />
 </h1>
 
-<h2 align="center">Live Demo: LINK </h2>
+<h2 align="center">[Live Demo](https://sirfaria.github.io/NinjaQuiz/)</h2>
 
 ## 💻 Project
 
